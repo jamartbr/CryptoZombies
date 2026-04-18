@@ -17,12 +17,12 @@ The full interactive course can be found here:
 This repo serves as a technical diary of my learning journey from **Beginner to Intermediate Solidity**. By following the CryptoZombies path, I have implemented the following concepts:
 
 ### 🛠️ Concepts Covered
-*   **Zombie Factory:** Building the base contract, DNA generation, and mappings.
-*   **Multiplayer Logic:** Mapping owners to zombies and handling `msg.sender`.
-*   **Advanced Solidity:** Gas optimization, visibility modifiers, and contract ownership.
-*   **Battle System:** Implementing game mechanics, random probability, and cooldowns.
-*   **ERC721 Standards:** Turning zombies into tradable non-fungible tokens (NFTs).
-*   **Security:** Using SafeMath and best practices for smart contract development.
+*   **Lesson 1:** Contracts, state variables, structs, arrays, functions, events, keccak256
+*   **Lesson 2:** Mappings, addresses, inheritance, imports, storage vs memory, interfaces
+*   **Lesson 3:** Gas optimization, immutability, Ownable contracts, modifiers, view functions
+*   **Lesson 4:** Payable functions, withdrawals, random number generation, cooldowns
+*   **Lesson 5:** ERC721 tokens, NFTs, transfer logic, approvals, SafeMath
+*   **Lesson 6:** Web3.js integration, contract interaction, transactions, subcribing to events
 
 ## 📂 Project Structure
 Each commit in this repository corresponds to a specific chapter or lesson from the [CryptoZombies curriculum](https://cryptozombies.ioen/lesson/1). 
